@@ -1,3 +1,3 @@
 teste de reset
-modif
+// suppresssion d'une modif
 modif dans VS Code
