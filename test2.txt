@@ -2,7 +2,4 @@ teste de reset
 
 // suppresssion d'une modif
 modif dans VS Code
-=======
-modif   :   ici je crée un conflit
-modif dans VS Code
->>>>>>> cd1827d20e9c74c5a26fae43b624d9a1639af449
+
