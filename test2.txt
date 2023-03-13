@@ -1,2 +1,3 @@
 teste de reset
 modif
+modif dans VS Code
